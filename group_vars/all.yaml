@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "prasadbhor0767@gmail.com"
+email_pass: "ener ufbo exnj thoa"
+alert_recipient: "prasadnana2402@gmail.com"
